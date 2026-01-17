@@ -1,0 +1,15 @@
+========== LAPORAN EVALUASI ASISTEN ==========
+Nama      : sella
+NIM       : 12344
+Praktikum : pbo
+----------------------------------------------
+DAFTAR TUGAS:
+- membuat soal
+- menjelaskan
+----------------------------------------------
+HASIL PENILAIAN:
+Rata-rata Nilai : 83
+Kategori        : Baik
+STATUS AKHIR    : LAYAK DIPERTAHANKAN
+PESAN ADMIN     : lanjutkan!
+==============================================
